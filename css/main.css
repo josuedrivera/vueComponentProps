@@ -1,0 +1,6 @@
+/* Cascading StyleSheets */
+/* CSS selector */
+.flagged {
+	background-color: red;
+	color: white;
+}
